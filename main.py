@@ -79,4 +79,4 @@ async def auto_cancel(ctx, trade_id):
         await ctx.send(f"Trade {trade_id} has been automatically cancelled due to inactivity.")
         del active_trades[trade_id]
 
-bot.run('MTM0MDYzOTY5NzAwMDU5NTQ3Ng.GitYA3.i_eUah83CN0jDIjeIsqQ9kiUjQjSKdinbOng5Y')
+bot.run('MTM0MDYzOTY5NzAwMDU5NTQ3Ng.GejCVY.ptwGdzLC-MvH3MeT5PIH02hMmcIzbrpkjJTQwo')
